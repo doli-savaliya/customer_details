@@ -1,0 +1,56 @@
+﻿   .webgrid-table {
+        font-family: Arial,Helvetica,sans-serif;
+        font-size: 14px;
+        font-weight: normal;
+        width: 650px;
+        display: table;
+        border-collapse: collapse;
+        border: solid px #C5C5C5;
+        background-color: white;
+    }
+	.webgrid-table td, th {
+		border: 1px solid #7b7b7b;
+		padding: 3px 7px 2px;
+	}
+    .webgrid-header, .webgrid-header a {
+        background-color: #a6abab;
+        color:#ffffff;
+        text-align: left;
+        text-decoration: none;
+    }
+    .webgrid-footer {
+    }
+    .webgrid-row-style {
+        padding: 3px 7px 2px;
+    }
+    .webgrid-alternating-row {
+        background-color:azure;
+        padding: 3px 7px 2px;
+    }
+    .col1Width {
+        width: 55px;
+    }
+    .col2Width {
+        width: 220px;
+    }
+      .col-sm {
+        width: 100px;
+        min-width: 90px;
+    }
+
+    .col-med {
+        width: 150px;
+        min-width: 120px;
+    }
+
+   .address {
+        font-weight: bold;
+    }
+
+  .cssOther3 {
+        font-weight: bold;
+    }
+
+  .cssStyle2 {
+        text-align: -moz-center;
+    }
